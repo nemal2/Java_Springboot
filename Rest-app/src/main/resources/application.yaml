@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_vendor?useSSL=false
+    username: root
+    password: PereraIsuri2@
+   # driver-class-name: com.mysql.cj.jdbc.Driver
+
+# Jpa setting
+  jpa.hibernate.ddl-auto: create
